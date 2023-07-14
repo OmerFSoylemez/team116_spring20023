@@ -87,8 +87,3 @@ public class C04_TreeMap {
 
     }
 }
-    git add .
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/OmerFSoylemez/team116_spring20023.git
-        git push -u origin main
